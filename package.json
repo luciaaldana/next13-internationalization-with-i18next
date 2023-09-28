@@ -1,5 +1,5 @@
 {
-  "name": "next13-internationalization-with-i18next",
+  "name": "nextjs13-with-i18next-ts",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,16 +9,19 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "react": "latest",
-    "react-dom": "latest",
-    "next": "latest"
-  },
-  "devDependencies": {
-    "typescript": "latest",
-    "@types/react": "latest",
-    "@types/node": "latest",
-    "@types/react-dom": "latest",
-    "eslint": "latest",
-    "eslint-config-next": "latest"
+    "@types/node": "20.6.0",
+    "@types/react": "18.2.21",
+    "@types/react-dom": "18.2.7",
+    "accept-language": "3.0.18",
+    "eslint": "8.49.0",
+    "eslint-config-next": "13.4.19",
+    "i18next": "23.5.1",
+    "i18next-browser-languagedetector": "7.1.0",
+    "i18next-resources-to-backend": "1.1.4",
+    "next": "13.4.19",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-i18next": "13.2.2",
+    "typescript": "5.2.2"
   }
 }

@@ -1,0 +1,27 @@
+.link {
+  padding: 8px 24px;
+  background: rgba(100,100,100, 0.2);
+  border: 1px solid rgba(108, 108, 108, 0.3);
+  font-size: 16px;
+  letter-spacing: 1.5px;
+}
+
+.link:hover {
+  border-color: rgba(108, 108, 108, 0.8);
+}
+
+.firstLink {
+  border-radius: 50px 0 0 50px;
+}
+
+.lastLink {
+  border-radius: 0 50px 50px 0;
+}
+
+.activeLng {
+  background-color: #16abff33;
+}
+
+.language {
+  font-weight: bold;
+}

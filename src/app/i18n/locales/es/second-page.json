@@ -1,0 +1,10 @@
+{
+  "note": "Este proyecto utiliza Next.js 13, I18next y Typescript",
+  "title": "SEGUNDA PÁGINA",
+  "description": "PROYECTO NEXTJS 13 CON I18N: Cómo aplicar idiomas a nuestro proyecto",
+  "action": "Cambiar el color del título",
+  "link": {
+    "title": "Inicio",
+    "description": "Navegar de vuelta al Inicio usando el lenguaje que recibimos por parámetro."
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "note": "This project uses Next.js 13, I18next and Typescript",
+  "title": "SECOND PAGE",
+  "description": "NEXTJS 13 PROJECT WITH I18N: How to apply languages to our project",
+  "action": "Change title color",
+  "link": {
+    "title": "Home",
+    "description": "Navigate back to the Home using the language we receive as a parameter."
+  }
+}

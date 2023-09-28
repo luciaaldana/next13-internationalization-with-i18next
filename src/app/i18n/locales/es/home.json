@@ -1,0 +1,9 @@
+{
+  "note": "Este proyecto utiliza Next.js 13, I18next y Typescript",
+  "title": "PROYECTO NEXTJS 13 CON I18N",
+  "description": "Cómo aplicar idiomas a nuestro proyecto",
+  "link": {
+    "title": "Segunda página",
+    "description": "Navegar a la segunda página usando el lenguaje que recibimos por parámetro."
+  }
+}
