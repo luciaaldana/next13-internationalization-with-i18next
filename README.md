@@ -1,3 +1,5 @@
+`PUEDES VER LA GUÍA COMPLETA Y EXPLICADA EN ESTE ARTÍCULO` →  [Internacionalización en Next.js 13 con I18Next](https://www.huasi.dev/blog/internacionalizacion-nextjs-13-i18next)
+
 # INTERNACIONALIZACIÓN EN NEXT.JS 13 Y I18NEXT
 
 INTERNACIONALIZACIÓN EN NEXT.JS 13 CON APP DIRECTORY, I18NEXT Y TYPESCRIPT
